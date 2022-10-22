@@ -1,2 +1,3 @@
 # Selenium-with-Java
-While learning Selenium, I created the most painful way to check if a git repository still exist.
+
+This is a Selenium demo that works in Chrome and Edge. For more details, please refer to [the guide **(FR)**](guide_selenium.pdf).
